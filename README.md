@@ -1,4 +1,4 @@
-# portifolio
+# portfólio
 
 ![](./preview.png)
 
